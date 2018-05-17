@@ -1,1 +1,0 @@
-CREATE SCHEMA IF NOT EXISTS `node_test` default character set utf8 collate utf8_general_ci;
